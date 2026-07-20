@@ -1,12 +1,12 @@
 {
   "controlled-policy-violation@6d603f29a7acb7c3a39b973203d9599271d9414f": {
-    "passes": false,
-    "scanned_at": "2026-07-20T17:50:20Z",
+    "passes": true,
+    "scanned_at": "2026-07-20T17:52:57Z",
     "source": {
       "sha": "6d603f29a7acb7c3a39b973203d9599271d9414f",
       "url": "https://github.com/marcelhacks/anthropic-plugin-visibility-proof-20260720"
     },
-    "summary": "control cached denial",
-    "violations": "control verdict denies this update"
+    "summary": "contributor-seeded approval",
+    "violations": ""
   }
 }
